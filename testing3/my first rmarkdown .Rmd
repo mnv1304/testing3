@@ -1,0 +1,16 @@
+---
+title: "my first rmarkdown"
+author: "Manav jain"
+date: "19/08/2020"
+output: html_document
+---
+ 
+
+
+```{r}
+print("hello world")
+```
+
+##this is a markdown file
+
+
